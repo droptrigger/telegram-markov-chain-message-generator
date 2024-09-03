@@ -7,7 +7,7 @@
 A bot that uses Markov chains to generate messages based on those sent during the conversation.  
 My TG channel - [Click](https://t.me/CreateTrigger)
 
-<img src='https://github.com/user-attachments/assets/e286aa6e-dac9-4e6b-98a7-03142881295a' width=60%/>
+<img src='https://github.com/user-attachments/assets/2da0ccce-3d7e-4591-8d62-fdf76a382a84' width=60%/>
 </div>
 
 ## 📖 Description
@@ -18,12 +18,12 @@ Next, using an algorithm, a message is generated from these words using the Mark
 
 * `citatgen` - Random message generation.
 <div align="center">
-<img src='https://github.com/user-attachments/assets/fbf3029d-f648-442f-9113-03ce9edcc893' width=70%/>
+<img src='https://github.com/user-attachments/assets/d2086b44-78d9-4b4c-905b-22b7f4c0f95b' width=70%/>
 </div>
 
 * `citatgen <number>` - Generating a random message from a certain __number__ of words.
 <div align="center">
-<img src='https://github.com/user-attachments/assets/da75fb86-92e4-4011-b1d5-e44eb0dac50b' width=70%/>
+<img src='https://github.com/user-attachments/assets/0df66d22-b2a1-4a5b-900c-f1183cf0fc55' width=70%/>
 </div>
 
 ## 🤖 Launching the bot
@@ -60,7 +60,7 @@ pip install numpy
 The bot will not be able to generate quotes for the first 3-10 messages, as there are not enough words for it :)
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/4d721edc-7af1-4c71-bdcb-8ea05849cbf4" width=60% height=50%>
+<img src="https://github.com/user-attachments/assets/1a44d4c6-af96-4892-84ce-a7874422b624" width=60% height=50%>
 </div>
 
 ## ✅ Well done! Общайтесь! Теперь все должно работать.
